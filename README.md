@@ -69,3 +69,5 @@ Can be switched with the field `DATA_SOURCE`
 
 1. Create TDAmeritrade Developer Account and App
 2. Put in your `API_KEY` in `config.yaml` and change `DATA_SOURCE`.
+
+This fork was created to get all possible stocks as an output in the csv whereas the base repo only considers the top 30 percentile
